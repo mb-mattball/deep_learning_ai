@@ -1,3 +1,7 @@
 # Read Me
-Week Three - covered unsupervised learning.
-Mainly implementing the K means algorithm from scratch, PCA, recommender systems (NN eg film recommendations) and reinforcement learning (NN eg landing a lunar vehicle)
+Week Three - covered unsupervised learning:
+- implementing the K means algorithm from scratch 
+- outlier detection algorithms 
+- PCA
+- recommender systems (NN eg film recommendations) 
+- reinforcement learning (NN eg landing a lunar vehicle)
