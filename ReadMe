@@ -1,5 +1,8 @@
 # Read Me
 Week One - beginning supervised learning 
+- learning about regression and classifications models
+- gradient descent
+- being able to implement these model types from scratch to conduct regression and classification tasks 
 
 Week Three - covered unsupervised learning:
 - implementing the K means algorithm from scratch 
